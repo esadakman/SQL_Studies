@@ -1,6 +1,4 @@
 SELECT * FROM invoices;
-/* 
-*/
 /*1. Write a query that displays InvoiceId, CustomerId and total dollar amount for each invoice, 
 sorted first by CustomerId (in ascending order), and then by total dollar amount  (in descending order).*/
 SELECT InvoiceId, CustomerId, total FROM invoices Order By CustomerId ASC, total DESC;
