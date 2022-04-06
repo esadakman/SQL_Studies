@@ -174,6 +174,10 @@ SUBQUERY kullanarak listeyiniz. Listelemede trackid, name ve albumid bilgileri b
 albumid'lerini elde ederek tracks tablosunda bu id'lere eşit olan kayıtların bilgilerini 
 JOIN kullanarak listeyiniz.Listelemede trackid, name ve albumid bilgileri bulunmalıdır. */
 
+/* albums tablosundaki Title sutunu Faceless veya Let There Be Rock olan kayıtların 
+albumid'lerini elde ederek tracks tablosunda bu id'lere eşit olan kayıtların bilgilerini 
+JOIN kullanarak listeyiniz.Listelemede trackid, name ve albumid bilgileri bulunmalıdır. */
+
 
 
 
