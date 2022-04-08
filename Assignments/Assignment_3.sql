@@ -1,3 +1,5 @@
+
+
 /* SORGU1: SATIS veya MUHASABE bölümlerinde çalışan personelin isimlerini ve bölümlerini,
 önce bölüm sonra isim sıralı olarak listeleyiniz */
 
